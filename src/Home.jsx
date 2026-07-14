@@ -1,3 +1,4 @@
+import "./Home.css";
 function Home() {
   return (
     <div className="home-box">
@@ -8,4 +9,3 @@ function Home() {
 }
 
 export default Home;
-import "./Home.css";
